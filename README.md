@@ -2,7 +2,7 @@
 
 ### Olá, bem-vindo(a)!
 
-Meu nome e Jorge Silva, estudante do 4º ano de Engenharia da Computação, na Universidade Virtual do Estado de Saço Paulo - [UNIVESP](https://univesp.br/). Busco
+Meu nome e Jorge Silva, estudante do 4º ano de Engenharia da Computação, na Universidade Virtual do Estado de São Paulo - [UNIVESP](https://univesp.br/). Busco
 estágio no setor de desenvolvimento de sites, softwares, serviços e aplicações web. O objetivo é trabalhar na programação de sistemas utilizando JavaScript, Python, PHP e SQL(para banco de dados relacionais MySQL, PostgreSQL e SQL Server).
 
 ### Tecnologias
