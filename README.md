@@ -7,9 +7,9 @@ estágio no setor de desenvolvimento de sites, softwares, serviços e aplicaçõ
 
 ### Tecnologias
 * Linguagens de programação: JavaScript, Python e PHP;
-* Frontend: JavaScirpt, HTML e CSS;
+* Frontend: JavaScirpt, HTML, Bootstrap e CSS;
 * Frameworks: Django, Flask, Laravel;
-* Banco de dados: MySQL, PostgreSQL e SQLServer;
+* Banco de dados: SQL (MySQL, MariaDB, PostgreSQL e SQLServer;
 * Ferramentas de versionamento: Git e GitHub.
 
 ### Contato
