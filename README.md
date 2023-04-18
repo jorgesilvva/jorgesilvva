@@ -6,8 +6,8 @@ Meu nome é Jorge Silva, estudante do 4º ano de Engenharia da Computação, na 
 estágio no setor de desenvolvimento de sites, softwares, serviços e aplicações web. O objetivo é trabalhar na programação de sistemas utilizando JavaScript, Python, PHP e SQL(para banco de dados relacionais MySQL, PostgreSQL e SQL Server).
 
 ### Tecnologias
-* Linguagens de programação: JavaScript, Python e PHP;
-* Frontend: HTML, Bootstrap e CSS;
+* Back-end: JavaScript, Python e PHP;
+* Front-end: HTML, Bootstrap e CSS;
 * Frameworks: Django, Flask, Laravel;
 * Banco de dados: SQL (MySQL, MariaDB, PostgreSQL e SQLServer;
 * Ferramentas de versionamento: Git e GitHub.
