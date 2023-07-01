@@ -8,7 +8,7 @@ Meu nome é Jorge Silva, estudante do 4º ano de Engenharia da Computação, na 
 * CMS: Wordpress.
 * Front-end: HTML, Bootstrap e CSS;
 * Back-end: C#, JavaScript, Python e PHP;
-* Frameworks: Vue, Django, Flak, Laravel;
+* Frameworks: Vue, Django, Flask, Laravel;
 * Ferramentas de versionamento: Git e GitHub;
 * Banco de dados: SQL (MySQL, MariaDB, PostgreSQL e SQLServer) ou NoSQl(MongoDB).
 
