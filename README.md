@@ -2,23 +2,23 @@
 
 ### Olá, bem-vindo(a)!
 
-Meu nome é Jorge Silva, estudante do 5º ano de Engenharia da Computação na [Universidade Virtual do Estado de São Paulo (UNIVESP)](https://univesp.br/). Atualmente alocado na [TENDÊNCIAS CONSULTORIA](https://tendencias.com.br/), no setor de Tecnologia, Informação e Dados, trabalho no desenvolvimento e implementação de softwares, sistemas e aplicações web. Possuo proficiência nas linguagens de programação C#, Golang, Python, Java Script e PHP, além de prática na modelagem de banco de dados SQL e NoSQL. Familiaridade com metodologias ágeis, análise de dados, Power BI, Git e GitHub. Em minha jornada na programação trabalhei movido pelo espirito criativo e orientado pelo compromisso de crescimento contínuo. Meu objetivo é participar de equipes qualificadas, contribuir com ideias significativas e agregar valor em projetos de impacto.
+Meu nome é Jorge Silva, bacharel em Tecnologia da Informação e Engenharia da Computação pela [Universidade Virtual do Estado de São Paulo (UNIVESP)](https://univesp.br/). Atualmente faço parte equipe da [TENDÊNCIAS CONSULTORIA](https://tendencias.com.br/), no setor de Tecnologia, Informação e Dados, trabalhando com análise, desenvolvimento e implementação de softwares, sistemas e aplicações web. Sou proficiente em Python, Go, SQL e NoSQL, possuo um sólido conhecimento em modelagem e otimização de bancos de dados. Além disso, tenho experiência com criação de APIs, microsserviços, processos ETL e na visualização de informações utilizando Power BI. Familiarizado com metodologias ágeis, versionamento de código e práticas de desenvolvimento contínuo, procuro constantemente aprimorar minhas habilidades e experiências. Meu objetivo é trabalhar em equipes qualificadas, colaborar com ideias inovadoras e contribuir para a realização de projetos de impacto.
 
 ### Tecnologias
-* Front-end: HTML, Bootstrap e CSS;
-* Back-end: C#, JavaScript, Python Go e PHP;
-* Frameworks: Vue, Django, Flask, Laravel;
-* Versionamento e colaboração continua: Git e GitHub;
-* Banco de dados: SQL (MySQL, MariaDB, PostgreSQL e SQLServer) ou NoSQl(MongoDB);
-* Microserviços: Design e implementação de arquiteturas baseadas em microserviços;
+* Back-end: Python, Go;
+* Frameworks: Flask, FastAPI;
+* Versionamento e colaboração contínua: Git e GitHub;
+* Banco de dados: SQL (PostgreSQL) e NoSQL (MongoDB);
+* Microserviços: Design e implementação de arquiteturas escaláveis;
 * REST APIs: Desenvolvimento e integração de APIs RESTful para comunicação entre sistemas;
-* Nuvem: AWS (Amazon Web Services) e Azure (Microsoft Azure) para gerenciamento de infraestrutura e serviços em nuvem.
+* Nuvem: AWS e Docker para gerenciamento de infraestrutura e serviços em nuvem;
+* CI/CD: GitHub Actions para automação de deploys e pipelines de integração contínua.
 
 ### Cursos
-* DevOps;
-* PowerBI;
-* Cloud Computing;
-* Metodologias Ágeis.
+* GitHub Certification – [Digital Innovation One](https://www.dio.me/certificate/1HNIRAYY/share);
+* Formação Database Experience – [Digital Innovation One](https://www.dio.me/certificate/ZFQRDQPF/share);
+* Formação em Lógica de Programação – [Digital Innovation One](https://www.dio.me/certificate/RHCBWUJJ/share);
+* Python AI Backend Developer – [Digital Innovation One](https://www.dio.me/certificate/NCUXKQNK/share).
 
 ### Contato
 Você pode entrar em contato comigo através do meu [LinkedIn](https://www.linkedin.com/in/jorge-silvva/).
