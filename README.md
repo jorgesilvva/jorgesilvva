@@ -1,9 +1,10 @@
 <div align="center">
 
 # 👨‍💻 Jorge Silva
+
 **Back-End Developer & Data Analyst**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-silvva/){:target="_blank"}
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-silvva/)
 
 </div>
 
@@ -11,7 +12,7 @@
 
 ## 🎯 Sobre mim
 
-Bacharel em **Tecnologia da Informação** e **Engenharia da Computação** pela [UNIVESP](https://univesp.br/){:target="_blank"}. Atualmente na [**TENDÊNCIAS CONSULTORIA**](https://tendencias.com.br/){:target="_blank"}, no setor de Tecnologia, Informação e Dados. Trabalho na interseção entre **Engenharia de Software** e **Ciência de Dados**, desenvolvendo soluções end-to-end, da ingestão ao consumo via APIs. Pipelines ETL para séries temporais em alta escala, com arquitetura orientada a microsserviços para garantir dados confiáveis e prontos para análise.
+Bacharel em **Tecnologia da Informação** e **Engenharia da Computação** pela [UNIVESP](https://univesp.br/). Atualmente na [**TENDÊNCIAS CONSULTORIA**](https://tendencias.com.br/), no setor de Tecnologia, Informação e Dados. Trabalho na interseção entre **Engenharia de Software** e **Ciência de Dados**, desenvolvendo soluções end-to-end, da ingestão ao consumo via APIs. Pipelines ETL para séries temporais em alta escala, com arquitetura orientada a microsserviços para garantir dados confiáveis e prontos para análise.
 
 ## 💼 Responsabilidades
 
@@ -24,6 +25,7 @@ Bacharel em **Tecnologia da Informação** e **Engenharia da Computação** pela
 ## 💡 Impacto
 
 Entrega de sistemas resilientes e autônomos para o processamento de indicadores econômicos e séries temporais, reduzindo dependências manuais e acelerando a entrega de informações. Dados validados e sempre disponíveis, com redução significativa do tempo de disponibilização e suporte a decisões em tempo real.
+
 
 ## 🛠️ Tecnologias
 
@@ -38,15 +40,15 @@ Entrega de sistemas resilientes e autônomos para o processamento de indicadores
 
 ## 📚 Cursos
 
-* 🏆 [GitHub Certification](https://www.dio.me/certificate/1HNIRAYY/share){:target="_blank"} – Digital Innovation One
-* 💾 [Formação Database Experience](https://www.dio.me/certificate/ZFQRDQPF/share){:target="_blank"} – Digital Innovation One
-* 🧠 [Formação em Lógica de Programação](https://www.dio.me/certificate/RHCBWUJJ/share){:target="_blank"} – Digital Innovation One
-* 🐍 [Python AI Backend Developer](https://www.dio.me/certificate/NCUXKQNK/share){:target="_blank"} – Digital Innovation One
+* 🏆 [GitHub Certification](https://www.dio.me/certificate/1HNIRAYY/share) – Digital Innovation One
+* 💾 [Formação Database Experience](https://www.dio.me/certificate/ZFQRDQPF/share) – Digital Innovation One
+* 🧠 [Formação em Lógica de Programação](https://www.dio.me/certificate/RHCBWUJJ/share) – Digital Innovation One
+* 🐍 [Python AI Backend Developer](https://www.dio.me/certificate/NCUXKQNK/share) – Digital Innovation One
 
 ---
 
 <div align="center">
 
-**📫 Contato:** [LinkedIn](https://www.linkedin.com/in/jorge-silvva/){:target="_blank"}
+**📫 Contato:** [LinkedIn](https://www.linkedin.com/in/jorge-silvva/)
 
 </div>
