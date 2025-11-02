@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Jorge Silva
+# 💻 Jorge Silva
 
 **Back-End Developer & Data Analyst**
 
